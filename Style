@@ -1,0 +1,43 @@
+<style>
+
+body
+
+background-color: #lalala,
+
+margin: 0;
+
+LAB: INTERACTIVE JAVASCRIPT PROGRAMMING
+
+KG College of Arts and Science (Autonomous)
+
+Lab Manua
+
+padding: 0;
+
+display: flex;
+
+justify-content: center;
+
+align-items: center;
+
+height: 100vh;
+
+font-family: Courier New', Courier, monospace;
+
+#clock (
+
+font-size: 60px;
+
+
+color: #00ffee;
+
+padding: 20px 40px;
+
+border: 2px solid #00ffce;
+
+border-radius: 10px;
+
+box-shadow: 0px 0px 20px #00ffce,
+
+background-color: #222:
+}

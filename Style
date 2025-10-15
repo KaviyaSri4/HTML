@@ -6,12 +6,6 @@ background-color: #lalala,
 
 margin: 0;
 
-LAB: INTERACTIVE JAVASCRIPT PROGRAMMING
-
-KG College of Arts and Science (Autonomous)
-
-Lab Manua
-
 padding: 0;
 
 display: flex;
@@ -24,10 +18,9 @@ height: 100vh;
 
 font-family: Courier New', Courier, monospace;
 
-#clock (
+#clock {
 
 font-size: 60px;
-
 
 color: #00ffee;
 
